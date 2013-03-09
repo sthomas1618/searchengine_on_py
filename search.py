@@ -1,6 +1,3 @@
-# Stephen Thomas
-# CSCI 511
-# Project6
 from search_engine import SearchEngine
 
 search = SearchEngine()

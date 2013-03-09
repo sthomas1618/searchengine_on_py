@@ -1,6 +1,3 @@
-# Stephen Thomas
-# CSCI 511
-# Project6
 from media import Media
 
 

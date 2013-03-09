@@ -1,6 +1,3 @@
-# Stephen Thomas
-# CSCI 511
-# Project6
 class Media(object):
     def __init__(self, call_number, title, subjects, notes):
         self.__call_number = call_number

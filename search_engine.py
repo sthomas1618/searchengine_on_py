@@ -1,6 +1,3 @@
-# Stephen Thomas
-# CSCI 511
-# Project6
 from book import Book
 from film import Film
 from periodic import Periodic
